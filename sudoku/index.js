@@ -1,4 +1,4 @@
-var nools = require("../../index.js"),
+var nools = require("../index.js"),
     sudoku = require("./lib/sudoku");
 
 var flow = nools.compile(require.resolve("./lib/rules/sudoku.nools"), {
