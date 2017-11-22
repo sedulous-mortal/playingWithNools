@@ -22,4 +22,4 @@ This creates the grid and fills in the given numbers, but it also lists in the e
 
 5) If you want to, you can make the nools solve the puzzle it created (and list its reasoning!) by running `solve()` once you have the `sudoku>>` prompt in your console.
 
-6) To exit the interface, type `exit()`
+6) To exit the interface, you need to CTRL+C twice, or CTRL+C once and then type `.exit()`
